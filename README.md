@@ -8,7 +8,7 @@ LinkedIn: www.linkedin.com/in/pradyumna-purohit-4230bb6b <br />
 
 Content: <br />
 
-1. Regression: Sales prediction. We will be using various ML models including ensembling to predict the Sales
+1. https://github.com/Pradyumnapurohit87/Pradyumnapurohit87/blob/main/FinalSubmission.ipynbRegression: Sales prediction. We will be using various ML models including ensembling to predict the Sales
 
 <!---
 Pradyumnapurohit87/Pradyumnapurohit87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
