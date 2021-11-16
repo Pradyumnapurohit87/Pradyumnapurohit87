@@ -8,7 +8,8 @@ LinkedIn: www.linkedin.com/in/pradyumna-purohit-4230bb6b <br />
 
 Content: <br />
 
-1. https://github.com/Pradyumnapurohit87/Pradyumnapurohit87/blob/main/FinalSubmission.ipynbRegression: Sales prediction. We will be using various ML models including ensembling to predict the Sales
+1. Regression problem: Data exploration and Sales prediction using various ML models (Linear Regression, Decision Tree, Ensembling with Random Forest) <br /> https://github.com/Pradyumnapurohit87/Pradyumnapurohit87/blob/main/FinalSubmission.ipynbRegression
+2. Regression problem: Pradicting taxi trip duration using different models (Linear Regression, Decisino Tree, Gradient Boosting)
 
 <!---
 Pradyumnapurohit87/Pradyumnapurohit87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
